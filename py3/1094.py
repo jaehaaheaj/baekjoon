@@ -1,0 +1,1 @@
+print(sum([int(i) for i in "{0:b}".format(int(input()))]))
